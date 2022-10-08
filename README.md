@@ -14,4 +14,4 @@ Linux:
 ./gradlew shadowJar build
 ```
 ## License
-Copyright 2022 Kirill Lomakin. Wind JAD Creator is licensed under the Apache License, Version 2.0. See [LICENSE](README.md) for the full license text.
+Copyright 2022 Kirill Lomakin. Wind JAD Creator is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE.md) for the full license text.
