@@ -1,0 +1,25 @@
+plugins {
+    id 'com.github.johnrengelman.shadow' version '7.1.2'
+    id 'java'
+}
+
+group = 'org.lisowolf'
+version = '1.0'
+
+jar {
+    manifest {
+        attributes.put("Main-Class", "WindJADCreator")
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.formdev:flatlaf:2.5'
+}
+
+shadowJar {
+    mergeServiceFiles()
+}
