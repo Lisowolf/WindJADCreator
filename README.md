@@ -1,5 +1,5 @@
 # Wind JAD Creator
-This is a simple app that helps you to generate JAD file for your old phone that requies JAD file when you install app.
+This is a very simple app that helps you to generate JAD file for your old phone that requies JAD file when you install app.
 
 ![image](https://user-images.githubusercontent.com/76843479/194717397-4d08b0dd-7cf2-44a3-b0f2-8859a461625f.png)
 ## Build
